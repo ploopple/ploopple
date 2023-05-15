@@ -43,7 +43,7 @@
 
 <h2>My Projects</h2>
 <ul>
-  <li><a href="https://github.com/mohamed/example-project">Jira clone</a><br/>
+  <li><a href="https://github.com/ploopple/task-mangment">Jira clone</a><br/>
   <i>Technologies: Angular, .NET, PostgreSQL, JWT</i><br/><br/>
   The Jira Clone project is a web application built using Angular for the frontend, .NET for the backend, and PostgreSQL for the database. It aims to replicate the functionality of Atlassian's Jira, a popular issue tracking and project management tool. The application supports user authentication and authorization using JSON Web Tokens (JWT).<br/>
   
@@ -58,7 +58,7 @@
   
   
   
-  <li><a href="https://github.com/mohamed/another-project">Shopping website</a><br/> <i>React, Express.js (NestJS), PostgreSQL, JWT</i><br/><br/>
+  <li><a href="https://github.com/ploopple/ecommerce">Shopping website</a><br/> <i>React, Express.js (NestJS), PostgreSQL, JWT</i><br/><br/>
   The E-commerce Website project is a full-stack web application that provides a platform for users to browse, search, and purchase products online. The frontend is built using React, a popular JavaScript library for building user interfaces. The backend is powered by Express.js with NestJS, a framework for building efficient and scalable Node.js web applications, and PostgreSQL as the database .<br/>
   
   <p>Some key features of the E-commerce Website project include:</p>
