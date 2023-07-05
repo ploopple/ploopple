@@ -39,7 +39,7 @@
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=ploopple&amp;show_icons=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ploopple&amp;show_icons=true" /> -->
 
 <h2>My Projects</h2>
 <ul>
